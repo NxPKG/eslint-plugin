@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": ["plugin:@nxpkg/recommended"],
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "@typescript-eslint/no-var-requires": 0
+  }
+}
