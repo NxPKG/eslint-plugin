@@ -1,4 +1,4 @@
-# `@nxpkg/catch-error-name`
+# `@nx-pkg/catch-error-name`
 
 > Enforce a specific name in catch clauses
 

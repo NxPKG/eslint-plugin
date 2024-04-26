@@ -1,4 +1,4 @@
-# `@nxpkg/lines-around-comment`
+# `@nx-pkg/lines-around-comment`
 
 > Require empty lines around comments
 
@@ -11,7 +11,7 @@ It adds support for allowing comments at the start and end of `interface`'s, typ
 
 ```cjson
 {
-  "@nxpkg/lines-around-comment": ["error"]
+  "@nx-pkg/lines-around-comment": ["error"]
 }
 ```
 
