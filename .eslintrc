@@ -1,6 +1,6 @@
 {
   "root": true,
-  "extends": ["plugin:@nxpkg/recommended"],
+  "extends": ["plugin:@nx-pkg/recommended"],
   "env": {
     "node": true
   },

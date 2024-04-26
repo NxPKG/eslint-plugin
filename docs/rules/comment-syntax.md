@@ -1,4 +1,4 @@
-# `@nxpkg/comment-syntax`
+# `@nx-pkg/comment-syntax`
 
 > Enforce block and line comment style
 

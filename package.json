@@ -1,5 +1,5 @@
 {
-  "name": "@nxpkg/eslint-plugin",
+  "name": "@nx-pkg/eslint-plugin",
   "version": "0.0.42",
   "description": "An ESLint config to enforce a consistent code styles across NxPKG projects",
   "keywords": [
@@ -34,7 +34,7 @@
     "eslint-plugin-prettier": "^4.0.0"
   },
   "devDependencies": {
-    "@nxpkg/eslint-plugin": "link:./",
+    "@nx-pkg/eslint-plugin": "link:./",
     "@types/common-tags": "^1.8.0",
     "@types/eslint": "^8.4.1",
     "@types/jest": "^26.0.10",
