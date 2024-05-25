@@ -1,5 +1,5 @@
 {
-  "name": "@nxpkg/eslint-plugin",
+  "name": "@nx-pkg/eslint-plugin",
   "version": "0.0.42",
   "description": "An ESLint config to enforce a consistent code styles across NxPKG projects",
   "keywords": [
@@ -24,17 +24,17 @@
     "prepack": "npm run build"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "5.59.7",
+    "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "^5.59.7",
     "@typescript-eslint/utils": "^5.59.7",
     "common-tags": "^1.8.0",
-    "eslint": "^8.11.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-jsonc": "^2.6.0",
+    "eslint-plugin-jsonc": "^2.11.1",
     "eslint-plugin-prettier": "^4.0.0"
   },
   "devDependencies": {
-    "@nxpkg/eslint-plugin": "link:./",
+    "@nx-pkg/eslint-plugin": "link:./",
     "@types/common-tags": "^1.8.0",
     "@types/eslint": "^8.4.1",
     "@types/jest": "^26.0.10",
