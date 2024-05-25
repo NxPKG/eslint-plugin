@@ -1,4 +1,4 @@
-# `@nxpkg/block-scope-case`
+# `@nx-pkg/block-scope-case`
 
 > Ensures all case statements are block scoped.
 

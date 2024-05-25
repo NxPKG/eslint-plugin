@@ -14,7 +14,7 @@ export = {
     'plugin:prettier/recommended',
     'plugin:jsonc/recommended-with-jsonc',
   ],
-  plugins: ['@nxpkg'],
+  plugins: ['@nx-pkg'],
   rules: {
     'consistent-return': 'error',
 
@@ -157,7 +157,7 @@ export = {
       },
     ],
 
-    '@nxpkg/lines-around-comment': [
+    '@nx-pkg/lines-around-comment': [
       'error',
       {
         allowClassStart: true,
@@ -178,9 +178,9 @@ export = {
         allowMemberCallExpression: true,
       },
     ],
-    '@nxpkg/block-scope-case': 'error',
-    '@nxpkg/newline-before-return': 'error',
-    '@nxpkg/catch-error-name': 'error',
-    '@nxpkg/comment-syntax': 'error',
+    '@nx-pkg/block-scope-case': 'error',
+    '@nx-pkg/newline-before-return': 'error',
+    '@nx-pkg/catch-error-name': 'error',
+    '@nx-pkg/comment-syntax': 'error',
   },
 };
