@@ -1307,13 +1307,13 @@ eslint-etc@^5.2.1:
     tsutils "^3.17.1"
     tsutils-etc "^1.4.1"
 
-eslint-plugin-jsonc@^2.6.0:
-  version "2.15.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jsonc/-/eslint-plugin-jsonc-2.15.1.tgz#97a5b24e9b14fe2163fd4988fa66d428785d7e7e"
-  integrity sha512-PVFrqIJa8BbM/e828RSn0SwB/Z5ye+2LDuy2XqG6AymNgPsfApRRcznsbxP7VrjdLEU4Nb+g9n/d6opyp0jp9A==
+eslint-plugin-jsonc@^2.11.1:
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsonc/-/eslint-plugin-jsonc-2.11.2.tgz#5829ec7b4abd11378be525a85deb3dfbc6348dc7"
+  integrity sha512-F6A0MZhIGRBPOswzzn4tJFXXkPLiLwJaMlQwz/Qj1qx+bV5MCn79vBeJh2ynMmtqqHloi54KDCnsT/KWrcCcnQ==
   dependencies:
     "@eslint-community/eslint-utils" "^4.2.0"
-    eslint-compat-utils "^0.5.0"
+    eslint-compat-utils "^0.1.2"
     espree "^9.6.1"
     graphemer "^1.4.0"
     jsonc-eslint-parser "^2.0.4"
